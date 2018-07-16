@@ -9,3 +9,9 @@ Resolução de alguns exercícios de programação em C deste site https://progr
 [C]Lista 3 – Comandos de Repetição
 
 [C]Lista 4 – Vetores e Matrizes
+
+[C]Lista 5 – Strings
+
+[C]Lista 6 – Structs
+
+[C]Lista 7 – Funções
