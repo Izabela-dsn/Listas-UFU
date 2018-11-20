@@ -7,8 +7,8 @@ int main(){
 	scanf("%lf", &K);
 	L = K/0.45;
 	printf("O valor em Libras e: %.2lf", L);
-	
-	
+
+
 	getch();
 	return 0;
 }

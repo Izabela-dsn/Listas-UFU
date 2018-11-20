@@ -2,12 +2,12 @@
 #include <conio.h>
 
 int main(){
-	 float a, b;
+    float a, b;
 	printf("Digite qualquer valor: ");
 	scanf("%f", &a);
-	 b = a/5;
-	printf("a quinta desse numero e: %.2f", b);
+    b = a/5;
+	printf("A quinta parte desse valor e: %.2f", b);
 
-    getch();	
-   return 0;
+    getch();
+    return 0;
 }
