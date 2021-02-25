@@ -1,4 +1,4 @@
-# Listas-UFU
+# Listas-UFU :book: :computer:
 
 Resolução de alguns exercícios de programação em C deste site https://programacaodescomplicada.wordpress.com/complementar/
 
